@@ -34,10 +34,9 @@ You are a coding agent working on the following GitHub issue.
 
 ## Your objective
 
-Implement the changes described in the issue. When you are done:
+Implement the changes described in the issue and open a pull request with your
+changes.
 
-- Open a pull request with your changes.
-- Move the issue card to **In Review**.
-
-If at any point you are blocked and need human input, move the card to
-**Human Required** and leave a comment explaining what is needed.
+If you reach a point where you cannot proceed without a decision from a human
+(e.g. ambiguous requirements, missing credentials, conflicting constraints),
+stop working and explain the blocker clearly.

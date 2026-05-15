@@ -35,7 +35,8 @@ You are a coding agent working on the following GitHub issue.
 ## Your objective
 
 Implement the changes described in the issue and open a pull request with your
-changes.
+changes. Include "Closes #{{ issue.number }}" in the pull request description
+to link the PR to this issue.
 
 If you reach a point where you cannot proceed without a decision from a human
 (e.g. ambiguous requirements, missing credentials, conflicting constraints),

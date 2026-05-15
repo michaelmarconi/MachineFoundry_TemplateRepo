@@ -5,7 +5,7 @@
 
 ## What is Machine Foundry?
 
-Machine Foundry is an orchestrator that watches this repository's GitHub Projects
+[Machine Foundry](https://github.com/michaelmarconi/MachineFoundry) is an orchestrator that watches this repository's GitHub Projects
 board and automatically dispatches AI coding agents to work on issues that reach
 the **Ready** column.
 

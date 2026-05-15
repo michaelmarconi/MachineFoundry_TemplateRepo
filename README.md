@@ -1,6 +1,6 @@
 # My Project
 
-> This repository was created from the [Machine Foundry template](https://github.com/michaelmarconi/MachineFoundry).
+> This repository was created from the [Machine Foundry template](https://github.com/michaelmarconi/MachineFoundry_TemplateRepo).
 > It is pre-configured to work with the Machine Foundry orchestrator out of the box.
 
 ## What is Machine Foundry?
